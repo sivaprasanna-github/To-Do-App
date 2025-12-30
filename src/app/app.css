@@ -1,0 +1,16 @@
+h1 {
+  color: #1976d2;
+}
+
+input {
+  padding: 8px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 6px 10px;
+}
+
+li {
+  margin-top: 8px;
+}
